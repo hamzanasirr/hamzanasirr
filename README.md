@@ -1,16 +1,10 @@
 # Hi, I’m Hamza Nasir 👋
 
-![AI-Augmented Data Engineering](https://img.shields.io/badge/AI--Augmented-Data%20Engineering-0A0A0A?style=flat)
-![Senior Consultant](https://img.shields.io/badge/Senior-Data%20Engineering%20Consultant-1F2937?style=flat)
-
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-4F46E5?style=flat)
-
-![Conference Speaker](https://img.shields.io/badge/Conference-Speaker-065F46?style=flat)
-![Technical Writer](https://img.shields.io/badge/Technical-Writer-1E40AF?style=flat)
 
 **AI-Augmented Senior Data Engineering Consultant**  
 I help teams build **scalable, resilient data platforms** — and future-proof them with **GenAI-driven workflows**.
