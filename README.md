@@ -10,6 +10,8 @@
 **AI-Augmented Senior Data Engineering Consultant**  
 I help teams build **scalable, resilient data platforms** — and future-proof them with **GenAI-driven workflows**.
 
+Portfolio: [Portfolio.BigDataLad.com](https://Portfolio.BigDataLad.com)
+
 ---
 
 ## 🚀 What I Do
