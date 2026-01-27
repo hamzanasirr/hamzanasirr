@@ -4,7 +4,7 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-4F46E5?style=flat)
+![GenAI](https://img.shields.io/badge/GenAI-4F46E5?style=flat&logo=openai&logoColor=white)
 
 **AI-Augmented Senior Data Engineering Consultant**  
 I help teams build **scalable, resilient data platforms** — and future-proof them with **GenAI-driven workflows**.
