@@ -3,14 +3,8 @@
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-4F46E5?style=flat)
-
-![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-EE7624?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-6B5BFF?style=for-the-badge)
 
 **AI-Augmented Senior Data Engineering Consultant**  
 I help teams build **scalable, resilient data platforms** — and future-proof them with **GenAI-driven workflows**.
